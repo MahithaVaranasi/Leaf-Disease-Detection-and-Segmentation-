@@ -45,8 +45,6 @@ Leaf-Disease-Detection-and-Segmentation/
 ├── Leaf Disease Detection and Segmentation.ipynb
 ├── README.md
 ├── requirements.txt
-├── dataset/
-├── outputs/
 └── sample_results/
 ```
 
@@ -101,8 +99,8 @@ The model performance can be evaluated using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Leaf-Disease-Detection-and-Segmentation.git
-cd Leaf-Disease-Detection-and-Segmentation
+git clone https://github.com/MahithaVaranasi/Leaf-Disease-Detection-and-Segmentation-.git
+cd Leaf-Disease-Detection-and-Segmentation-
 ```
 
 Install dependencies:
