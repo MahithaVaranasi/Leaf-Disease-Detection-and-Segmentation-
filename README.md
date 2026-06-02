@@ -45,7 +45,6 @@ Leaf-Disease-Detection-and-Segmentation/
 ├── Leaf Disease Detection and Segmentation.ipynb
 ├── README.md
 ├── requirements.txt
-└── sample_results/
 ```
 
 ---
